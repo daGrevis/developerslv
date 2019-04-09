@@ -69,7 +69,7 @@ connected 4 days, 3 hours, 2 minutes and 1 second ago.
 | d (day)     | 60 * 60 * 24
 | y (year)    | 60 * 60 * 24 * 365 |
 
-Larger durations are preferred so respond with `1h 2m 3s` instead of `3723s` or
+Larger durations are preferred to respond with `1h 2m 3s` instead of `3723s` or
 `62m 3s`.
 
 Empty durations should be omitted so respond with `1h 2s` instead of `0y 1h 0m
