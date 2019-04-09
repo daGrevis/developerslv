@@ -9,13 +9,14 @@ many bots on this channel. New bots are encouraged, make your own!
 
 ## Bots
 
-* **msks** (JavaScript)
-* **vdk** (JavaScript)
-* **obql** (JavaScript)
-* **zn** (Haskell)
-* **Xn** (Haskell)
+* **[Xn](https://github.com/ivanovsaleksejs/Xn)** (Haskell)
+* **[zn](https://github.com/siers/zn)** (Haskell)
+* **[msks](https://github.com/daGrevis/msks)** (JavaScript)
+* **[agni](http://git.main.lv/cgit.cgi/agni.git/)** (C)
+* **[vdk](https://github.com/jurgenzz/vd)** (JavaScript)
+* **[bncr](https://github.com/daGrevis/bncr)** (JavaScript)
 * **snbt** (Ruby)
-* **agni** (C)
+* **[obql](https://github.com/thistehneisen/obql-bot)** (JavaScript)
 
 ## Bot Spec
 
