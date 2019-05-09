@@ -15,7 +15,7 @@ many bots on this channel. New bots are encouraged, make your own!
 * **[agni](http://git.main.lv/cgit.cgi/agni.git/)** (C)
 * **[vdk](https://github.com/jurgenzz/vd)** (JavaScript)
 * **[bncr](https://github.com/daGrevis/bncr)** (JavaScript)
-* **snbt** (Ruby)
+* **[snbt](https://github.com/snowball-lv/snbt)** (Ruby)
 * **[obql](https://github.com/thistehneisen/obql-bot)** (JavaScript)
 
 ## Bot Spec
