@@ -1,6 +1,6 @@
 # #developerslv
 
-#developerslv is a IRC channel on [Freenode network](https://freenode.net/)
+#developerslv is a IRC channel on [Libera network](https://libera.chat/)
 
 Topic is about software and hacking in Latvian/English. The chat is public and
 its history can be found on [developers.lv](https://developers.lv).  History
